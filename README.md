@@ -1,2 +1,5 @@
-# git-digital-course
-Santander Coders 2024
+# Curso Digital: Git/Versionamento
+
+# Gravando mudanças no repositório
+
+## Salvando modificações no Git
